@@ -1,0 +1,32 @@
+body {
+	background-color: #3399cc;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+	border: none;
+	border-radius: 1rem;
+}
+
+h2 {
+	font-weight: 600;
+}
+
+.btn-primary {
+	background-color: #2b6cb0;
+	border-color: #2b6cb0;
+	transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+	background-color: #1a4e80;
+	border-color: #1a4e80;
+}
+
+.form-label {
+	font-weight: 500;
+}
+
+input, select {
+	border-radius: 0.5rem !important;
+}
